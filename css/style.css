@@ -439,8 +439,9 @@ footer {
   margin-bottom: 16px;
 }
 
-#register input {
+#register input, #register select {
   /* height: 45px; */
+  color: #000000;
 }
 
 #register button {
