@@ -787,3 +787,13 @@ footer {
   overflow: hidden;
 }
 
+.navbar-brand {
+  height: auto;
+}
+
+.home-logo {
+  width: 100px;
+  background: #fff;
+  margin-top: 20px;
+  margin-right: 12px;
+}
